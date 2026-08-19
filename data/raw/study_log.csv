@@ -1,10 +1,10 @@
 date,week,module,duration_minutes,completed,note
 2026-07-27,1,Python,60,True,变量与数据类型
 2026-07-28,1,Python,75,True,列表和字典
-2026-07-29,1,Python,90,True,循环练习
+2026-07-29,1,Python,90,False,循环练习
 2026-07-30,1,Python,45,True,条件判断
 2026-07-31,1,Python,80,True,函数练习
-2026-08-01,2,NumPy,60,True,数组基础
+2026-08-01,2,NumPy,60,False,数组基础
 2026-08-02,2,NumPy,75,True,shape练习
 2026-08-02,2,NumPy,75,True,shape练习
 2026-08-03,2,Pandas,,False,DataFrame练习

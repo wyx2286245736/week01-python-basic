@@ -1,6 +1,6 @@
-# Week 01 Python Basic
+# AI Learning Journey
 
-这是我的 AI 学习路线第 1 周项目，用于练习 Python 基础、文件读写以及 Git 和 GitHub 工作流。
+这是我的 28 周 AI 学习路线，用于学习 Python、数据分析、机器学习与 AI 应用开发，并通过阶段项目记录学习过程。
 
 ## 开发环境
 
@@ -9,8 +9,12 @@
 - Conda 环境：ai-learning
 - VS Code
 - Jupyter Notebook
+- Git
+- GitHub
 
-## 本周学习内容
+## Week 01：Python Basic
+
+学习内容：
 
 - Python 变量和基本数据类型
 - 列表
@@ -22,18 +26,38 @@
 - Git 本地版本管理
 - GitHub 远程仓库推送
 
-## 项目文件
+## Week 02：NumPy + Pandas
 
-- `01_python_basic.ipynb`：Python 基础练习
-- `environment.yml`：Conda 环境配置
-- `outputs/reports/note.txt`：学习记录
-- `outputs/reports/grades.txt`：成绩报告
-- `outputs/reports/materials.txt`：材料报告
+学习内容：
 
-## 恢复运行环境
+- NumPy array
+- Pandas DataFrame
+- CSV / Excel 数据读取
+- 缺失值处理
+- 重复值处理
+- 条件筛选
+- groupby
+- value_counts
+- sort_values
+- Excel 导出
 
-在安装了 Miniconda 的电脑上执行：
+## Week 03：Matplotlib Data Visualization
 
-```bash
-conda env create -f environment.yml
-conda activate ai-learning
+学习内容：
+
+- `plt.figure()`
+- `plt.bar()`
+- `plt.barh()`
+- `plt.plot()`
+- `plt.hist()`
+- `plt.xlabel()`
+- `plt.ylabel()`
+- `plt.title()`
+- `plt.tight_layout()`
+- `plt.savefig()`
+
+### Study hours by module
+
+![Study hours by module](outputs/figures/study_hours_by_modules.png)
+
+The chart compares the total study hours spent on different learning modules.
